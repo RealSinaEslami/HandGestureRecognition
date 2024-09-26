@@ -1,0 +1,10 @@
+
+path: /Users/Sina/Desktop/Summer Projects/Rock Paper Scissors/Yolo-Data
+train: train/images
+val: val/images
+
+nc: 3
+names:
+    0: Rock
+    1: Paper
+    2: Scissors
