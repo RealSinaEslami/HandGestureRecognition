@@ -15,6 +15,4 @@ In this project i've used YOLO (You Only Look Once) version 5 model to train my 
 
 Since i was a kid, i was very interested in video games and always i wanted to create a one. So this was a chance to test my abilites of coding after years of self learning
 It was my first time i was creating a game and it was a very exhausting journey to learn new stuff and graphical environments.
-The Hardest part was merging the YOLO output with pygame camera, So feel free if you have any questions
-
-#### Final Word: I want to dedicate this project to my friend "Parsa Moqadam" who made me think bigger and motivated me everytime i felt underweather😊
+The Hardest part was merging the YOLO output with pygame camera, So feel free to ask if you have any question
